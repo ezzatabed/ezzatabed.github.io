@@ -3,15 +3,15 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url(https://img.freepik.com/free-photo/illustration-cosmic-background-with-orange-neon-laser-lights_181624-19567.jpg); 
+  background-image: url('https://img.freepik.com/free-vector/digital-dark-wavy-background_23-2148388254.jpg?size=626&ext=jpg&ga=GA1.1.34264412.1698796800&semt=ais'); 
   background-size: cover;
   background-position: center;
-  background-attachment: fixed; /* Optional: to prevent background scrolling on some devices */
+  background-attachment: fixed;
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white; /* Text color */
+  color: white;
   font-family: 'Roboto Slab';
 }
 
