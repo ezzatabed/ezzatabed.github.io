@@ -1,6 +1,20 @@
+
+
 body {
-background-image: url(https://img.freepik.com/free-photo/illustration-cosmic-background-with-orange-neon-laser-lights_181624-19567.jpg);
-color: white;
-font-family: 'Roboto Slab';
-text-align: center;
+  margin: 0;
+  padding: 0;
+  background-image: url(https://img.freepik.com/free-photo/illustration-cosmic-background-with-orange-neon-laser-lights_181624-19567.jpg); 
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Optional: to prevent background scrolling on some devices */
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white; /* Text color */
+  font-family: 'Roboto Slab';
+}
+
+.container {
+  text-align: center;
 }
