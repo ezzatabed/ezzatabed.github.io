@@ -3,12 +3,12 @@
 body {
   margin: 0;
   padding: 0;
-  /*background-image: url(https://img.freepik.com/free-photo/illustration-cosmic-background-with-orange-neon-laser-lights_181624-19567.jpg);
+  background-image: url(https://img.freepik.com/free-photo/illustration-cosmic-background-with-orange-neon-laser-lights_181624-19567.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   
-  height: 100vh;*/
+  height: 100vh;
   display: flex;
   color: white;
   font-family: 'Roboto Slab';
@@ -27,6 +27,4 @@ body {
 .container img{
   border: 1px black solid;
   border-radius: 10px;
-  max-height: 70%;
-  max-width: 70%;
 }
