@@ -9,8 +9,6 @@ body {
   background-attachment: fixed;
   height: 100vh;
   display: flex;
-  align-items: center;
-  justify-content: center;
   color: white;
   font-family: 'Roboto Slab';
 }
@@ -20,10 +18,14 @@ body {
   margin: 0 auto; /* Center the content horizontally */
   padding: 20px;
   text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .gif-container {
   max-width: 100%; /* Ensure the container is not wider than the viewport */
+  align-items: center;
+  justify-content: center;
 }
 
 .gif-container img {
